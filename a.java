@@ -1,5 +1,5 @@
 apple
-ball
+bat
 cat
-doll
+dog
 elephant
